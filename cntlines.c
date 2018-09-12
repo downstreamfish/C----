@@ -1,3 +1,8 @@
+/**
+ * 用途：此程序用于计算包含此文件的文件夹以及子文件内的C语言源代码的行数。
+ * 并记录在同文件夹下的 lines.log 文件内，还有运行时的系统时间。
+ */
+
 #include <stdio.h>
 #include <unistd.h>
 #include <dirent.h>
