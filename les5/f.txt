@@ -1,0 +1,2 @@
+Enter a number m:
+Enter another number n:

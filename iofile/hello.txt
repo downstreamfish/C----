@@ -1,0 +1,3 @@
+line one: To C, Or Not To C, That Is a Question.
+line two: Time fly like a arrow, fruit fly like banana.
+line three: keep it simple stupid.

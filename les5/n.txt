@@ -1,0 +1,3 @@
+Enter a number m:
+Enter another number n:
+4 / 2 = 2
